@@ -1,0 +1,176 @@
+﻿Date,Time,Activity,Location,Feelings,Duration,Duration in Hrs,Activity Value
+10/09/2023,5:00 am,wake up and get ready for school,Home,normal,30mins,0.5,moderate
+10/09/2023,5:30 am,travel to school,Outside,normal,2hrs 30mins,2.5,moderate
+10/09/2023,7:30 am,class (data analytics),Home,normal,2hrs,2,high
+10/09/2023,10:30 am,class (math031),School,sleepy,1hr 30mins,1.5,high
+10/09/2023,12:00 pm,lunch,School,hungry,1hr,1,moderate
+10/09/2023,1:00 pm,class (appdev),School,tired,2hrs,2,high
+10/09/2023,3:00 pm,class and reporting (rizal),School,excited/nervous,1hr 30mins,1.5,high
+10/09/2023,4:30 pm,go home,Outside,tired,1hr 30mins,1.5,moderate
+10/09/2023,6:00 pm,"reach home, rest,  take a nap",Home,refreshed,2hrs,2,low
+10/09/2023,8:00 pm,dinner,Home,hungry,30mins,0.5,moderate
+10/09/2023,8:30 pm,review and do assignments,Home,normal,2hrs,2,moderate
+10/09/2023,11:30 pm,me-time (tiktok and social media),Home,tired,1hr,1,low
+10/09/2023,12:30 am,sleep,Home,sleepy,5hrs 30mins,5.5,high
+10/09/2023,5:00 am,wake up and get ready for school,Home,normal,1hr,1,moderate
+10/10/2023,6:00 am,travel to school,outside,normal,1hr 30mins,1.5,high
+10/10/2023,7:30 am,class (info management),Online Class,happy,2hrs,2,high
+10/10/2023,10:30 am,class (project management),Online Class,happy,1hr 30mins,1.5,high
+10/10/2023,12:00 pm,lunch break,School,hungry,1hr30mins,1,moderate
+10/10/2023,1:00 pm,meeting & planning for appcon pitch,School,excited,2hrs,2,moderate
+10/10/2023,3:00 pm,appcon pitch/mentoring,School,nervous,30mins,0.5,high
+10/10/2023,3:45 pm,class (industry elective),School,tired,2hrs,2,high
+10/10/2023,6:10 pm,go home,Outside,tired,1hr 30mins,1.5,moderate
+10/10/2023,7:40 pm,"reach home, rest",Home,tired,20mins,0.3,moderate
+10/10/2023,8:00 pm,dinner,Home,hungry,30mins,0.5,moderate
+10/10/2023,8:30 pm,review and do assignments,Home,normal,1hr 30mins,1.5,moderate
+10/10/2023,10:00 pm,me-time (tiktok and social media),Home,normal,1hr 30mins,1.5,low
+10/10/2023,11:30 pm,sleep,Home,tired,8hrs,8,high
+10/11/2023,9:00 am,"wake up, shower, eat breakfast",Home,refreshed,2hrs,2,high
+10/11/2023,11:00 am,me-time (tiktok and social media),Home,enjoyed,1hr 30mins,1.5,low
+10/11/2023,12:30 pm,lunch,Home,hungry,30mins,0.5,moderate
+10/11/2023,1:00 pm,"class (asynch, appdev)",Home,normal,1hr 30mins,1.5,high
+10/11/2023,2:30 am,me-time (tiktok and social media),Home,normal,3hrs,3,moderate
+10/11/2023,5:30 am,prepare and go out with family for dinner,Outside,happy,3hrs 30mins,3.5,moderate
+10/11/2023,9:00 pm,review and do assignments,Home,tired,2hrs,2,high
+10/11/2023,11:00 pm,me-time (tiktok and social media),Home,tired,1hr,1,low
+10/11/2023,12:00 am,sleep,Home,tired,6hrs 30mins,6.5,high
+10/12/2023,5:00 am,wake up and get ready for school,Home,refreshed,1hr 25mins,1.42,high
+10/12/2023,6:00 am,travel to school,Outside,normal,2hrs,2,high
+10/12/2023,6:30 am,online class (project management) and meet up with AppCon group,School,normal,1hr 30mins,1.5,high
+10/12/2023,12:00 pm,lunch break,School,hungry,1hr,1,moderate
+10/12/2023,1:20 pm,stay at wildcats innovation lab to work on AppCon pitch,School,normal,1hr,1,high
+10/12/2023,2:30 pm,meet the CCS Dean to pitch AppCon idea with group and for endorsement,School,nervous,1hr,1,high
+10/12/2023,3:30 pm,f2f class (elective),School,normal,2hrs 30mins,2.5,high
+10/12/2023,5:00 pm,meet up with AppCon groupmates to work on the project,School,normal,1hr 30mins,1.5,high
+10/12/2023,6:30 pm,dinner,Outside,hungry,2hrs,2,moderate
+10/12/2023,7:00 pm,go home,Outside,tired,1hr 30mins,1.5,moderate
+10/12/2023,8:30 pm,me-time (tiktok and social media),Home,tired,1hr,1,moderate
+10/12/2023,9:30 pm,do assignments (esp for appdev) and some review,Home,normal,2hrs,2,high
+10/12/2023,11:30 pm,me-time (tiktok and social media),Home,tired,30mins,0.5,low
+10/12/2023,12:00 am,sleep,Home,tired,7hrs 30mins,7.5,high
+10/13/2023,7:30 am,"wake up, shower, eat breakfast",Home,refreshed,30 mins,0.5,high
+10/13/2023,8:00 am,collaborate with data analytics groupmates for the reporting,Online Class,normal,2hrs,2,high
+10/13/2023,10:00 am,me-time (tiktok and social media),Home,normal,30 mins,0.5,low
+10/13/2023,10:30 am,"lunch, shower, prepare to go to school, travel to school",Home,hungry,2hrs 20mins,2.33,high
+10/13/2023,12:40 pm,"arrive at school, attend f2f class (appdev)",School,normal,2hrs,2,high
+10/13/2023,3:00 pm,go home,Outside,tired,2hrs,2,moderate
+10/13/2023,5:00 pm,"arrive home, rest & nap",Home,tired,2hrs,2,moderate
+10/13/2023,7:00 pm,"wake up from nap, eat dinner",Home,hungry & refreshed,1hr 30mins,1.5,moderate
+10/13/2023,8:30 pm,me-time (tiktok and social media),Home,normal,30mins,0.5,low
+10/13/2023,9:00 pm,do assignments (data analytics project),Home,normal,1hr 30mins,1.5,high
+10/13/2023,10:30 pm,me-time (tiktok and social media),Home,tired,30mins,0.5,low
+10/13/2023,11:00 pm,sleep,Home,tired,9hrs,9,high
+10/14/2023,8:00 am,"wake up, shower, eat breakfast",Home,refreshed,1hr,1,moderate
+10/14/2023,9:00 am,work on data analytics project,Home,normal,1hr,1,high
+10/14/2023,10:00 am,online class (technopreneurship),Online Class,normal,2hrs,2,high
+10/14/2023,12:00 pm,lunch,Home,hungry,1hr,1,moderate
+10/14/2023,1:00 pm,me-time (tiktok and social media),Home,normal,2hrs,2,moderate
+10/14/2023,3:00 pm,work with groupmates for AppCon research,Home,normal,2hrs,2,high
+10/14/2023,5:00 pm,game break with friends (VALORANT),Home,normal,1hr 30mins,1.5,low
+10/14/2023,6:30 pm,early dinner,Home,hungry,45mins,0.75,moderate
+10/14/2023,7:15 pm,me-time (tiktok and social media),Home,normal,45mins,0.75,moderate
+10/14/2023,8:00 pm,finish data analytics project & memorize script,Home,normal,3hrs,3,high
+10/14/2023,11:00 pm,me-time (tiktok and social media),Home,tired,30mins,0.5,low
+10/14/2023,11:30 pm,sleep,Home,tired,8hrs,8,high
+10/15/2023,9:00 am,"wake up, shower, eat breakfast",Home,excited,2hrs,2,moderate
+10/15/2023,11:00 am,meet up & bond with friend over lunch and other activities,Outside,happy,4hrs,4,high
+10/15/2023,3:00 pm,"bid goodbye to each other, head home",Outside,happy,2hrs,2,moderate
+10/15/2023,5:00 pm,"reach home, rest and me-time",Home,tired,1hr 30mins,1.5,moderate
+10/15/2023,6:30 pm,dinner,Home,hungry,30mins,0.5,moderate
+10/15/2023,7:00 pm,"review for data analytics reporting, appdev, math, and rizal midterm exams",Home,normal,4hrs,4,high
+10/15/2023,11:00 pm,sleep,Home,tired,6hrs,6,moderate
+10/16/2023,5:00 am,wake up and get ready for school,Home,normal,1hr ,1,moderate
+10/16/2023,6:00 am,travel to school,Outside,refreshed,2hrs 30mins,2.5,high
+10/16/2023,7:30 am,class (data analytics reporting),School,nervous,2hrs,2,high
+10/16/2023,10:30 am,midterm exam f2f (math),School,nervous,1hr 30mins,1.5,high
+10/16/2023,12:00 pm,lunch break,School,hungry,45 mins,0.75,moderate
+10/16/2023,12:45 pm,review and go to classroom to take appdev midterm exam,School,nervous,2hrs,2,high
+10/16/2023,3:00 pm,midterm exam f2f (rizal),School,nervous,1hr,1,high
+10/16/2023,4:15 pm,go to library with classmates (because of rain),School,tired,2hrs,2,high
+10/16/2023,6:15 pm,go home,Outside,very tired,4hrs,4,high
+10/16/2023,9:15 pm,get home and rest for a bit since it was very traffic and i stood for hours commuting,Home,very tired,20mins,0.33,high
+10/16/2023,9:40 pm,continue project management reporting with groupmates and some review for info management midterm exam,Home,tired,2hrs,2,high
+10/16/2023,11:40 pm,sleep,Home,tired,7hrs,7,high
+10/17/2023,6:40 am,"wake up, shower, eat breakfast",Home,nervous,45mins,0.75,high
+10/17/2023,7:30 am,midterm exam  (info management),Online Class,nervous,2hrs,2,high
+10/17/2023,9:30 am,prepare for project management reporting,Home,nervous,1hr,1,high
+10/17/2023,10:30 am,project management reporting,Online Class,nervous,1hr 30mins,1.5,high
+10/17/2023,12:10 pm,lunch,Home,hungry,1hr,1,moderate
+10/17/2023,1:00 pm,take a nap,Home,tired,2hrs,2,moderate
+10/17/2023,3:00 pm,me-time (tiktok and social media),Home,refreshed,1hr 30mins,1.5,moderate
+10/17/2023,4:30 pm,start udemy class for web development,Home,excited,6hrs 30mins,6.5,moderate
+10/17/2023,10:00 pm,me-time (tiktok and social media),Home,tired,30mins,0.5,moderate
+10/17/2023,10:30 pm,sleep,Home,tired,11hrs,11,moderate
+10/18/2023,9:30 am,"wake up, shower, eat breakfast",Home,refreshed,1hr,1,moderate
+10/18/2023,10:30 am,commute to SWU for eye checkup by friend,Outside,happy,1hr 45mins,1.75,high
+10/18/2023,12:15 pm,eye check up,Outside,happy,2hrs 30mins,2.5,high
+10/18/2023,2:45 pm,late lunch,Outside,hungry,30mins,0.5,moderate
+10/18/2023,3:15 pm,go to CIT to meet up with AppCon groupmates to attend a Startup Community Mixer,Outside,normal,30mins,0.5,moderate
+10/18/2023,3:45 pm,go with groupmates to IT Park,Outside,normal,45mins,0.75,moderate
+10/18/2023,4:30 pm,short stroll in IT Park and Ayala Central Bloc,Outside,normal,30mins,0.5,low
+10/18/2023,5:00 pm,early dinner,Outside,hungry,45mins,0.75,moderate
+10/18/2023,5:45 pm,go to event mixer venue,Outside,excited,15mins,0.25,moderate
+10/18/2023,6:00 pm,mixer event starts,Outside,excited,4hrs,4,high
+10/18/2023,10:00 pm,"event ends, head home",Outside,tired,1hr 15mins,1.25,moderate
+10/18/2023,11:15 pm,sleep,Home,tired,8hrs 15mins,8.25,moderate
+10/19/2023,7:30 am,"wake up, breakfast, shower",Home,refreshed,1hr,1,low
+10/19/2023,8:30 am,review for project management midterm,Home,normal,2hrs,2,moderate
+10/19/2023,10:30 am,midterm exam for project management,Home,nervous,1hr 30mins,1.5,high
+10/19/2023,12:00 pm,lunch,Home,hungry,1hr,1,moderate
+10/19/2023,1:00 pm,prepare to go to school for elective f2f midterm,Home,normal,1hr,1,moderate
+10/19/2023,2:00 pm,travel to school,Outside,normal,1hr 30mins,1.5,moderate
+10/19/2023,3:30 pm,midterm exam for elective,School,nervous,2hrs 30mins,2.5,high
+10/19/2023,6:00 pm,go home (it was very traffic),Outside,tired,2hrs 30mins,2.5,moderate
+10/19/2023,8:30 pm,"reach home, rest",Home,tired,30mins,0.5,low
+10/19/2023,9:00 pm,review for data analytics midterm,Home,normal,2hrs,2,high
+10/19/2023,11:00 pm,sleep,Home,tired,6hrs,6,moderate
+10/20/2023,5:00 am,"wake up, get ready, and travel to school",Home,refreshed,2hrs 30mins,2.5,moderate
+10/20/2023,7:30 am,review for midterm exam,School,nervous,30mins,0.5,high
+10/20/2023,8:00 am,midterm exam for data analysis,School,nervous,2hrs,2,high
+10/20/2023,10:00 am,go to library with classmates,School,normal,2hrs,2,low
+10/20/2023,12:00 pm,lunch,School,hungry,50mins,0.83,moderate
+10/20/2023,1:00 pm,meet with AppCon groupmates,School,normal,2hrs,2,moderate
+10/20/2023,3:00 pm,AppCon consultation with sir busico,School,normal,30mins,0.5,high
+10/20/2023,3:30 pm,AppCon consultation with sir jurydel,School,normal,1hr,1,high
+10/20/2023,4:30 pm,finish techno activity with groupmates,School,normal,1hr 30mins,1.5,high
+10/20/2023,6:00 pm,go home,Outside,tired,2hrs,2,moderate
+10/20/2023,8:00 pm,"reach home, rest",Home,tired,30mins,0.5,low
+10/20/2023,8:30 pm,me-time (tiktok and social media),Home,normal,45mins,0.75,low
+10/20/2023,9:15 pm,finish techno presentation slides,Home,normal,1hr 15mins,1.25,high
+10/20/2023,10:30 pm,me-time (tiktok and social media),Home,normal,15mins,0.25,low
+10/20/2023,10:45 pm,sleep,Home,tired,11hrs,11,moderate
+10/21/2023,9:00 am,"wake up, shower, eat breakfast",Home,refreshed,1hr 30mins,1.5,moderate
+10/21/2023,11:00 am,me-time (tiktok and social media),Home,normal,1hr 30mins,1.5,low
+10/21/2023,12:30 pm,lunch,Home,hungry,45mins,0.75,moderate
+10/21/2023,1:15 pm,record video presentation for techno,Home,normal,1hr 45mins,1.75,high
+10/21/2023,3:00 pm,me-time (tiktok and social media),Home,normal,1hr 30mins,1.5,low
+10/21/2023,4:30 pm,start elective activity,Home,normal,2hrs,2,high
+10/21/2023,6:30 pm,"rest, me-time",Home,tired,30mins,0.5,moderate
+10/21/2023,7:00 pm,dinner,Home,hungry,1hr,1,moderate
+10/21/2023,8:00 pm,continue with elective activity,Home,normal,1hr,1,high
+10/21/2023,9:00 pm,play valorant with friends,Home,normal,1hr 30mins,1.5,moderate
+10/21/2023,10:30 pm,me-time (tiktok and social media),Home,tired,30mins,0.5,low
+10/21/2023,11:00 pm,sleep,Home,tired,10hrs 30mins,10.5,moderate
+10/22/2023,9:30 am,"wake up, shower, eat breakfast",Home,refreshed,1hr,1,moderate
+10/22/2023,10:30 am,continue with elective activity,Home,normal,2hrs,2,high
+10/22/2023,12:30 pm,lunch,Home,hungry,1hr,1,moderate
+10/22/2023,1:30 pm,continue with elective activity,Home,normal,3hrs 30mins,3.5,high
+10/22/2023,5:00 pm,me-time (tiktok and social media),Home,tired,2hrs,2,moderate
+10/22/2023,7:00 pm,dinner,Home,hungry,1hr,1,moderate
+10/22/2023,8:00 pm,continue with elective activity,Home,normal,1hr,1,high
+10/22/2023,9:00 pm,play valorant with friends,Home,normal,2hrs,2,low
+10/22/2023,11:00 pm,sleep,Home,tired,6hrs,6,moderate
+10/23/2023,5:00 am,wake up and get ready for school,Home,normal,1hr,1,moderate
+10/23/2023,6:00 am,travel to school,Outside,normal,1hr 30mins,1.5,high
+10/23/2023,7:30 am,class (Data analytics),School,normal,2hrs 30mins,2.5,high
+10/23/2023,10:30 am,class (math031),School,normal,1hr 30mins,1.5,high
+10/23/2023,12:00 pm,lunch,School,hungry,1hr,1,moderate
+10/23/2023,1:00 pm,class (appdev),School,normal,2hrs,2,high
+10/23/2023,3:00 pm,class (rizal),School,normal,1hr 30mins,1.5,high
+10/23/2023,4:30 pm,go home,Outside,tired,2hrs,2,moderate
+10/23/2023,6:30 pm,"reach home, rest",Home,tired,30mins,0.5,low
+10/23/2023,7:00 pm,dinner,Home,hungry,1hr,1,moderate
+10/23/2023,8:00 pm,continue with data analytics activity,Home,normal,2hrs,2,high
+10/23/2023,10:00 pm,me-time (tiktok and social media),Home,tired,30mins,0.5,moderate
+10/23/2023,10:30 pm,sleep,Home,tired,9hrs,9,moderate
