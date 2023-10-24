@@ -8,6 +8,8 @@ import io
 import base64
 import requests
 
+st.set_page_config(layout="wide")
+
 file_path = "https://raw.githubusercontent.com/alizamayyy/tracker_dashboard/main/Bataluna_Tracker.csv"
 
 response = requests.get(file_path)
