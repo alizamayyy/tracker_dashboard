@@ -6,10 +6,12 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import io
 import base64
+import requests
 
-# Load your dataset
-file_path = "C:/Users/Aliza May/OneDrive - Cebu Institute of Technology University/Desktop/3rd yr/IT365 - Data Analytics/tracker/Bataluna_Tracker.csv"
-df = pd.read_csv(file_path)
+file_path = "https://raw.githubusercontent.com/alizamayyy/tracker_dashboard/main/Bataluna_Tracker.csv"
+
+response = requests.get(file_path)
+df = pd.read_csv(io.StringIO(response.text))
 
 margins_css = """
     <style>
@@ -356,7 +358,7 @@ with c3_col2:
         title_x=0.12,
         height=400,  # Set the height of the chart (in pixels)
         width=300,  # Set the width of the chart (in pixels)
-        legend=dict(orientation='h', y=-0.2),  # Move the legend below (horizontal orientation)
+        legend=dict(orientation='h'),  # Move the legend below (horizontal orientation)
     )
     
     # Update the pie chart labels with percentages (bold)
